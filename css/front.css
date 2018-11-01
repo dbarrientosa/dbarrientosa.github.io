@@ -8,6 +8,16 @@ body {
     left: 0;
     margin: 0;
 }
+nav ul{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
 #fullscreen {
     z-index: -999;
     min-height: 100%;
