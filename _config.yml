@@ -3,8 +3,8 @@ title: Daniela Barrientos
 
 # Site settings
 name: Daniela Barrientos
-description: "I'm a chilean astronomer doing my MSc. in Astronomy at Universidad de Chile.\n 
-My interests are galaxy formation and evolution from an observational perspective.\n
+description: "I'm a chilean astronomer doing my PhD. in Astronomy at Gent University in Belgium.\n 
+My interests are galaxy formation and evolution from both an observational perspective and using simulated data.\n
 I'm also inetersted in ML applications to Astronomy."
 url: ""
 
@@ -15,7 +15,7 @@ github_username:  dbarrientosa
 facebook_username: your_facebook_username_goes_here
 instagram_username:  your_instagram_username_goes_here
 #blog_url: "/blog"
-email: daniela.barrientos@ug.uchile.cl
+email: daniela.barrientosacevedo@ugent.be
 
 
 avatar: yes
